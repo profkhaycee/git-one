@@ -1,3 +1,3 @@
-function dothis("params"){
+function dothis(params){
     //jfjfjfj
 }
