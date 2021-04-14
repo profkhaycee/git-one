@@ -1,0 +1,19 @@
+button{
+    padding: 20px;
+    border-radius: 15px;
+    background: lightgray;
+    color: black;
+    animation-name: rotatebtn;
+    animation-duration: 1s;
+    /* rotate: (180, 30); */
+    position: relative; top:40px; 
+    
+}
+
+@keyframes rotatebtn{
+    0%{left: 30px;}
+    20%{left: 130px;}
+    40%{left: 230px;}
+    60%{left: 330px;}
+    100%{left: 430px;}
+}
