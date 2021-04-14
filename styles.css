@@ -5,9 +5,13 @@ body{
 div{
     text-align: center;
     text-shadow: red;
+    border: 2px solid rgb(128, 0, 75);
+    
+    
     
 }
 button{
     background: rgb(11, 71, 238);
     border: 2px solid green;
+
 }
