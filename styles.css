@@ -5,6 +5,7 @@ body{
 div{
     text-align: center;
     text-shadow: red;
+    background: magenta;
     
 }
 button{
